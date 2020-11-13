@@ -1,0 +1,28 @@
+/*********************************************************************************
+
+	Template Name: Template Full Name Here
+	Description: A perfect template to build beautiful and unique medical websites. It comes with nice and clean design.
+	Version: 1.0
+
+	Note: This is custom css.
+
+**********************************************************************************/
+@font-face{
+	font-family: "roboto";
+	src: url(/fonts/roboto-Regular.ttf);
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face{
+	font-family: "roboto-black";
+	src: url(/fonts/Roboto-Black.ttf);
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face{
+	font-family: "roboto-bold";
+	src: url(/fonts/Roboto-Bold.ttf);
+	font-weight: bold;
+	font-style: normal;
+}
