@@ -935,7 +935,7 @@
     $(window).load(function () {
         setTimeout(function () {
             $('body').addClass('loaded');
-        }, 200);
+        }, 2000);
     })
 
     /* ========================
