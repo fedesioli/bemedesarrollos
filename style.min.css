@@ -21241,7 +21241,7 @@ audio {
     box-shadow: 0 10px 37px rgba(0, 0, 0, .07);
     position: absolute;
     list-style: none;
-    background-color: #222;
+    background-color: transparent;
     -webkit-animation: hide-animation .5s;
     animation: hide-animation .5s;
     left: 0;
@@ -21268,7 +21268,7 @@ audio {
     font-weight: 500;
     line-height: 1.58;
     color: #fff;
-    font-size: 14px;
+    font-size: 21px;
     -webkit-transition: width .6s cubic-bezier(.25, .8, .25, 1) 0s;
     -o-transition: width .6s cubic-bezier(.25, .8, .25, 1) 0s;
     transition: width .6s cubic-bezier(.25, .8, .25, 1) 0s;
