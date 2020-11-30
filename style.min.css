@@ -4,6 +4,11 @@
     color: #222 !important
 }
 
+#contacto{
+    max-width: 600px;
+    margin-left: 25%;
+
+}
 @media only screen and (max-width:575px) {
     .container {
         max-width: 450px
@@ -13,6 +18,9 @@
 @media only screen and (max-width:479px) {
     .container {
         max-width: 320px
+    }
+    #contacto{
+        margin-left: 0%
     }
 }
 
