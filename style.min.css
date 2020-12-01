@@ -33013,6 +33013,15 @@ header.br_header.header-default.header-fixed {
     z-index: 99999
 }
 
+#mapa-darregueyra{
+    background-image: url(imgss/mapas-alejados/mapas_Darregueyra\ 2376-.jpg)
+}
+@media only screen and (max-width:767px) {
+    #mapa-darregueyra{
+        background-image: url(imgss/mapas-alejados/mobile_Darregueyra.jpg)
+    }
+}
+
 .popup-mobile-manu .inner {
     background: #0A0908;
     position: relative;
