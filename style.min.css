@@ -22061,7 +22061,6 @@ h6.heading-h6.font-15 {
 p.bk_pra {
     margin-bottom: 0;
     word-wrap: break-word;
-    max-width: 100%;
     font-weight: 500;
     line-height: 1.58;
     font-size: 14px;
@@ -22070,9 +22069,11 @@ p.bk_pra {
 
 @media only screen and (max-width:767px) {
     p.bk_pra br {
-        display: none
+        display: none;
     }
+    
 }
+ 
 
 p.bk_pra.heading-font {
     font-family: louis_george_caferegular;
@@ -24150,7 +24151,7 @@ p.bk_pra.line-height-2-22 {
     bottom: 0;
     left: 0;
     z-index: 999999;
-    background: #fff
+    background: black
 }
 
 .page-load-inner {
