@@ -61067,7 +61067,7 @@ body.template-font-1 .mega__width--fullscreen .mega__list li a span {
 
 body.template-font-1 .mainmenu-wrapper .page_nav ul.mainmenu li.lavel-1>a span {
     font-family: roboto-black;
-    text-transform: uppercase
+    
 }
 
 body.template-font-1 .footer-widget .footer-menu ul.ft-menu-list li a {
@@ -61286,7 +61286,7 @@ body.template-font-4 .mega__width--fullscreen .mega__list li a span {
 }
 
 body.template-font-4 .mainmenu-wrapper .page_nav ul.mainmenu li.lavel-1>a span {
-    font-family: roboto
+    font-family: roboto-black
 }
 
 body.template-font-4 .footer-widget .footer-menu ul.ft-menu-list li a {
