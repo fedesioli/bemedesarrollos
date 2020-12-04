@@ -33032,19 +33032,19 @@ header.br_header.header-default.header-fixed {
 
 @media only screen and (max-width:767px) {
     #mapa-darregueyra{
-        background-image: url(imgss/mapas-alejados/mobile_Darregueyra.jpg)
+        background-image: url(imgss/mobileajustados/mobile_Darregueyra2376.jpg)
     }
     #mapa-echeverria{
         background-image: url(imgss/mobile/mobile_Echeverria\ 4316_Mesa\ de\ trabajo\ 1.jpg);
     }
     #mapa-olaya{
-        background-image: url(imgss/mobile/mobile_Olaya\ 1427\ _Mesa\ de\ trabajo\ 1.jpg);
+        background-image: url(imgss/mobileajustados/mapas_Olaya1427.jpg);
     }
     #mapa-nazca{
         background-image: url(imgss/mobile/mobile_Nazca\ 2703_Mesa\ de\ trabajo\ 1.jpg);
     }
     #mapa-nogoya{
-        background-image: url(imgss/mobile/mobile_Nogoya\ 3281_Mesa\ de\ trabajo\ 1.jpg);
+        background-image: url(imgss/mobileajustados/mobile_Nogoya3281.jpg);
     }
 }
 
