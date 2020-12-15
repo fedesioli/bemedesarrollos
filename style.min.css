@@ -14341,11 +14341,10 @@ a.moredetails-btn.yellow-color-2:hover {
 }
 
 .business-btn {
-    margin: 15px auto 0 !important;
     border-radius: 0 !important;
     color: #fff !important;
-    border-color: #9f3939 !important;
-    background-color: #9f3939 !important;
+    border-color: #fff !important;
+    background-color: black !important;
     font-family: CerebriSans !important;
     font-size: 13px !important;
     font-weight: 500 !important;
@@ -14588,11 +14587,11 @@ a.moredetails-btn.yellow-color-2:hover {
     border-color: #eee;
     background-color: #fff;
     height: 150px;
-    width: 100%;
     outline: 0;
     border: 1px solid #eee;
     border-radius: 0;
     padding: 12px 20px 3px;
+    width: 100%;
     max-width: 100%;
     -webkit-transition: all .3s cubic-bezier(.645, .045, .355, 1);
     -o-transition: all .3s cubic-bezier(.645, .045, .355, 1);

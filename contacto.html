@@ -198,7 +198,7 @@
         <main class="page-content">
 
             <!-- STart Contact Us Modern -->
-            <div class="contact-modern pt_lp--60 pb--120 pb_md--80 pb_sm--80" style="background-color: #0A0908;">
+            <!-- <div class="contact-modern pt_lp--60 pb--120 pb_md--80 pb_sm--80" style="background-color: #0A0908;">
                 <div class="container">
                     <div class="row align-items-center pt--60" id="contacto" >                        
                             <div class="contact-form">
@@ -238,8 +238,77 @@
                         
                     </div>
                 </div>
-            </div>
+            </div> -->
             <!-- End Contact Us Modern -->
+
+            <!-- Start Contact Form  -->
+           <div class="brook-contact-form-area ptb--50 ptb-md--80 ptb-sm--60 bg_color--3">
+            <div class="container">
+               
+                <div class="row">
+                    <div class="col-lg-6 offset-lg-3">
+                        <div class="contact-form" >
+                            <form id="contact-form" data-netlify="true" name="contact-form">
+                                <div class="row">
+                                    <div class="col-lg-12">
+                                        <input name="name" type="text" placeholder="Nombre *">
+                                    </div>
+
+                                    <div class="col-lg-12 mt--30">
+                                        <input name="email" type="email" placeholder="Email *">
+                                    </div>
+
+                                    <div class="col-lg-12 mt--30">
+                                        <input type="text" name="phone" placeholder="Teléfono">
+                                    </div>
+
+                                    <div class="col-lg-12 mt--30">
+                                        <select name="motivo" id="" style="background-color: white; height: 250%;">
+                                                <option value="" selected disabled="disabled"><span style="color: gray;">Motivo de consulta</span> </option>
+                                                <option value="Estoy queriendo comprar un inmueble en pozo">Estoy queriendo comprar un inmueble en pozo</option>
+                                                <option value="Estoy queriendo realizar un proyecto de arquitectura">Estoy queriendo realizar un proyecto de arquitectura</option>
+                                                <option value="Tengo un terreno y quiero construir en el mismo">Tengo un terreno y quiero construir en el mismo</option>
+                                            </select>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-lg-12 mt--60" >
+                                        <textarea name="message" placeholder="Tu mensaje"></textarea>
+                                    </div>
+
+                                   
+
+                                    <!-- <div class="col-lg-12 mt--30">
+                                        <input type="submit" value="Enviar">
+                                        <p class="form-messege"></p>
+                                    </div> -->
+                                    <div class="popup" id="popup-1">
+                                        <div class="overlay"></div>
+                                        <div id="che">
+                                        <div class="content">
+                                          <div class="close-btn" onclick="togglePopup()">&times;</div>
+                                          <!-- <h1 id="solicitud">¡Solicitud enviada!</h1> -->
+                                          <p style="margin-top: 20%">Muchas gracias por completar el formulario, en breve te conactaremos.  
+                                             
+                                          </p>
+                                        </div>
+                                        </div>
+                                        </div>
+                                      
+                                      <input class="business-btn ml--170 ml_sm--40 mt--30" type="submit" value="Enviar" onclick="togglePopup()"></button>
+                                    </div>
+                                </div>
+                                </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+            
+               
+        <!-- End Contact Form  -->
 
 
         </main>
