@@ -16528,7 +16528,7 @@ a:hover.hint--bottom::after {
     cursor: pointer;
     border: 0;
     outline: 0;
-    background: #d8d8d8;
+    background: transparent;
     border-radius: 100%;
     margin: 0 6px;
     opacity: 1
