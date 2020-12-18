@@ -16534,9 +16534,6 @@ a:hover.hint--bottom::after {
     opacity: 1
 }
 
-.swipper-custom-dots .swiper-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active {
-    background: #222
-}
 
 .flexale-image .thumb img {
     width: 100%
