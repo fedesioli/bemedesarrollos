@@ -576,7 +576,7 @@ select:focus,
 textarea:active,
 textarea:focus {
     outline: 0;
-    border-color: #0038e3
+    border-color: #fff
 }
 
 input,
@@ -14546,7 +14546,7 @@ a.moredetails-btn.yellow-color-2:hover {
 .contact-form input {
     color: #777;
     border-color: #eee;
-    background-color: #fff;
+    background-color: black;
     width: 100%;
     outline: 0;
     border: 1px solid #eee;
@@ -14578,14 +14578,14 @@ a.moredetails-btn.yellow-color-2:hover {
 }
 
 .contact-form input:focus {
-    border-color: #0038e3;
+    border-color: #fff;
     background-color: #fff
 }
 
 .contact-form textarea {
     color: #777;
     border-color: #eee;
-    background-color: #fff;
+    background-color: black;
     height: 150px;
     outline: 0;
     border: 1px solid #eee;
@@ -14599,8 +14599,8 @@ a.moredetails-btn.yellow-color-2:hover {
 }
 
 .contact-form textarea:focus {
-    color: #0038e3;
-    border-color: #0038e3;
+    color: black;
+    border-color: #fff;
     background-color: #fff
 }
 
