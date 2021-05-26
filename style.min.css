@@ -62153,3 +62153,42 @@ body.template-font-8 .service.service--2 .content p {
   clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
   animation: intro 2s;
 }
+
+
+@media only screen and (min-width: 480px) {
+  
+    #herodoho{
+      background-image: url(imgss/Echeverria/principal-echeverria.jpg);
+      background-size: 100% 100%;
+    }
+    #nogoyahero{
+        background-image: url(imgss/nogoya/NOGOYA-PRINCIPAL1920x628\ .jpg);
+    }
+    #nazcahero{
+        background-image: url(/imgss/nazca/NAZCA-PRINCIPAL1920.jpg);
+    }
+  }
+  
+@media only screen and (max-width: 480px) {
+  
+    #herodoho{
+      background-image: url(imgss/Echeverria/doho-mobile.jpg);
+      background-repeat: no-repeat;
+      
+      background-position: center;
+      background-size: 100% 100%;
+      
+    }
+    #nogoyahero{
+        background-image: url(imgss/nogoya/nogoya-mobile.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: 100% 100%;
+    }
+    #nazcahero{
+        background-image: url(/imgss/nazca/nazca-mobile.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: 100% 100%;
+    }
+  }
